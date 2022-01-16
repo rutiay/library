@@ -1,0 +1,8 @@
+svg{
+    margin: 10px;
+}
+
+svg:hover{
+    cursor: pointer;
+    color: cadetblue;
+}
